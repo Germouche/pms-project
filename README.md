@@ -1,2 +1,0 @@
-# pms-project
-wind analysis
